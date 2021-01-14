@@ -1,0 +1,7 @@
+{
+  "name": "tipicos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
